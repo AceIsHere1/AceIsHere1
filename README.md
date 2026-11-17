@@ -49,19 +49,27 @@ I'm interested in game development, multiplayer systems, and computer networking
 
 <!-- ===================== PROJECTS ===================== -->
 
+
 ## 🎮 Featured Projects
 
 ### 🌌 Eonfall: Echoes of Time
-A 2D fantasy puzzle adventure game concept featuring time-related mysteries, exploration, and logic-based puzzles.
+A 2D fantasy puzzle adventure game set in a mysterious kingdom, featuring time-related mysteries, exploration, and logic-based puzzles.
 
 **Tools:** Unity | C#
 
 ### 🍕 Pizza Rush - Multiplayer Prototype
-A multiplayer game prototype focused on player synchronization and client-server communication using Unity Netcode.
+A multiplayer pizzeria game prototype focused on player synchronization, order management, and client-server communication using Unity Netcode.
+
+**My Role:** Programmer
 
 **Tools:** Unity | C# | Netcode for GameObjects
 
----
+### 👻 Warung Bu Inah - Horror Game
+A 3D horror game set in an Indonesian food stall environment, inspired by the atmosphere of everyday local warungs. Features include traffic systems, interactive objects, dialogue, camera mechanics, and horror encounters.
+
+**My Role:** Programmer
+
+**Tools:** Unity | C#
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
