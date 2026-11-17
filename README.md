@@ -11,14 +11,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+profile!;Building+games+and+interactive+experiences;Exploring+Multiplayer+and+Networking" alt="Typing SVG" />
 </p>
 
-<!-- GIF SLOT
-     Add your own GIF later by removing the comment markers
-     and changing the image path.
-
 <p align="center">
-  <img src="assets/your-gif.gif" width="750" alt="Profile GIF">
+  <img
+    src="assets/aha-nihilux.gif"
+    width="750"
+    alt="Aha Nihilux Animation"
+  />
 </p>
--->
 
 ---
 
